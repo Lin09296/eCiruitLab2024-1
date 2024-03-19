@@ -5,7 +5,7 @@
 
 ![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/53e13f22-e6d1-4e03-a1f7-4d9c312ce5a8)
 
-因此電路是串連電阻是1：2分壓後是33.3
+因此電路是串連電阻是1：2分壓後是13.3
 
 
 ![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/79821407-1ed9-4936-b486-33ff4690a223)
