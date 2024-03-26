@@ -18,6 +18,12 @@
 ![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/67e32f7a-bd19-4113-84ad-a612ca2f80cb)
 ![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/a3e3eb50-f347-4f81-b7f8-2ef497206084)
 ![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/fdf45fc6-4d57-4632-99f1-b79bdd2838ea)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/679eab18-3f74-4390-b16a-eacb03fb45ec)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/52c64d74-8707-461c-b194-d566d62ffe10)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/d8b6765b-8fb2-486a-ab30-83da231828ad)
+
+
+
 
 
 
