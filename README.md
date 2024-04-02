@@ -22,6 +22,29 @@
 ![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/52c64d74-8707-461c-b194-d566d62ffe10)
 ![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/d8b6765b-8fb2-486a-ab30-83da231828ad)
 
+A1
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/a8881907-b49d-4ecc-9a2f-c3142b5e67cd)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/982cdc4a-6501-4c1c-842e-2a7cf5f0e688)
+
+加入二極體後波型變半波 因為電容使電流穩態才呈現累Dc
+A2
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/d87f3a1d-5c7d-4467-8ac2-dcf19d067d01)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/dfea3c34-e6e2-411b-95f4-9dc9f839fece)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/2e43154f-2a60-471a-ae93-b218aa79433e)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/51f41bfa-bb67-4d02-a836-62514682a985)
+B1
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/b7598ce4-2306-409b-add7-98af73d51691)
+B2
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/70bb7d2c-1058-4e55-b565-ee564011aeb2)
+B3
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/e4864678-27e0-46b4-9ee2-e301303a9dbf)
+
+
+
+
+
+
+
 
 
 
