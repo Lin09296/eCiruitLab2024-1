@@ -88,6 +88,16 @@ D3
 是兩個電晶體都具有相同的溫度係數，讓順向電壓可更精確地追蹤彼此
 
 
+A1
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/dbaca081-fe44-45fc-a899-6e6740c414ab)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/f26acd39-1dc1-4d7c-b8fc-106e109af562)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/6f23ec14-6d45-40b8-8e3b-a5adb1e0be4f)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/4b3ef091-ab78-4741-948e-26dd1afdbfe8)
+
+是一種在一個電路與另一個電路之間提供阻抗變換的設備
+常用於隔離、阻抗匹配、增強電路輸出能力等
+可以將外部輸入放大器的整體動態負載降低99%以上
+單一運算放大器是無法運作的，運算放大器一定要組成電路才能運作。 緩衝放大電路是一個完整的電路，可以完成指定的功能。 
 
 
 
