@@ -99,6 +99,22 @@ A1
 可以將外部輸入放大器的整體動態負載降低99%以上
 單一運算放大器是無法運作的，運算放大器一定要組成電路才能運作。 緩衝放大電路是一個完整的電路，可以完成指定的功能。 
 
+A2
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/09a415b9-887a-4bae-8a5b-e4457e98c42d)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/1eb2e211-d982-4500-98c8-e65005b8ef7b)
+R1:1k R2:5k
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/f745aadb-79ec-4c2d-ad7a-d136e7fa035a)
+R1:1k R2:2k
+
+輸入端的極性和輸出端相反極性的是反相放大器
+Vout/Vin= (-I1xR2) / (I1xR1) =- R2/R1
+無限大
+積分器 微分器
+反相放大器有存在着输出阻抗高、对输入偏置电压敏感、增益有限等缺點
+
+
+
+
 
 
 
