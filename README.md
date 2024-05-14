@@ -129,6 +129,12 @@ B1
 (30/10*2)+(30/10*2)=12
 常用於電子計算機
 
+B2
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/a1cba912-59da-4d3e-ada2-8cf07b011128)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/5132a08a-928f-4949-8f97-2f69730fc35d)
+減法器是電壓差放大器的一種
+(2-5)*10/10=-3
+(2-5)*40/10=-12
 
 
 
