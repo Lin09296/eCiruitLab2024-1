@@ -120,8 +120,14 @@ A3
 降低干擾因素
 增益=1輸出等於輸入
 
+B1
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/64af4f3b-3a3a-4ed7-be7d-53fe256a939e)
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/fc8c2458-f1bb-4828-80c0-fb760fbd3f5e)
 
-
+是一種用於執行加法運算的數位電路部件
+(10/10*2)+(10/10*2)=4
+(30/10*2)+(30/10*2)=12
+常用於電子計算機
 
 
 
