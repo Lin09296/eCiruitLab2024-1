@@ -158,10 +158,22 @@ C2
 R跟C越大輸出的負電壓越大
 
 
+實作四
 
+A1
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/013d73bf-d8eb-48e2-900c-c7a2e107e87c)
 
+A2
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/98abbe57-35cd-4e6d-9d42-f6ac714f63b8)
+是一種積體電路晶片，常被用於計時器、脈衝產生器和震盪電路
 
+單穩態 無穩態雙穩態
 
+三個op 正反器 電晶體
+
+接錯線 重新檢查電路
+
+計時器，脈衝丟失檢測，反彈跳開關，輕觸開關，分頻器，電容測量，脈衝寬度調變
 
 
 
