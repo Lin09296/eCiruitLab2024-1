@@ -178,6 +178,16 @@ A2
 週期0.34脈衝寬度0.6
 週期0.41 脈衝寬度0.6
 
+B1
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/5323c309-6a38-47ef-a65f-4e6b7997a2d4)
+B2
+![image](https://github.com/Lin09296/eCiruitLab2024-1/assets/162281519/d00b7c01-0751-437f-adc2-18f5b40be6d3)
+控制紅藍燈輪流發亮
+更改電容值
+控制三種燈的閃爍
+RC*1.1=t依照時間需求
+電容值太大充電緩慢 更改電容
+
 
 
 
